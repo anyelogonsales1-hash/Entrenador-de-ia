@@ -1,0 +1,6 @@
+{
+  "name": "AI Text Training System",
+  "description": "Sistema de entrenamiento interactivo para perfeccionar el estilo de redacción de IAs a través de prompts y correcciones directas en el texto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
